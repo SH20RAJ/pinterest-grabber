@@ -1,2 +1,2 @@
 # pinterest-grabber
-Grab Pinterest pin details and image Using JavaScript or php
+(Under Development) Grab Pinterest pin details and image Using JavaScript or php
